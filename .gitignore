@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+
+# YOLO Training Runs
+runs/
+
+# Downloaded Models
+yolo11n.pt
+yolo26n.pt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Dataset
+train/
+valid/
+test/
